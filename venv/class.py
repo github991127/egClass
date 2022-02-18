@@ -32,3 +32,4 @@ del s1
 del s2#无法销毁
 s3.__str__()
 print(111)
+#second commit
